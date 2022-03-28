@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstruct", "abstruct\abstruct.csproj", "{D2F3118D-6FE3-4D54-BE66-300BE3630431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F3118D-6FE3-4D54-BE66-300BE3630431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F3118D-6FE3-4D54-BE66-300BE3630431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F3118D-6FE3-4D54-BE66-300BE3630431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F3118D-6FE3-4D54-BE66-300BE3630431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B59A1F-6DE7-4CDE-B424-1834C6D2150F}
+	EndGlobalSection
+EndGlobal
